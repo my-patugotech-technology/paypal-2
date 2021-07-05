@@ -1,4 +1,6 @@
 #list
 mongobd
 mariadb
-mysql 
+mysql
+posgreSQL
+DynamoDB 
